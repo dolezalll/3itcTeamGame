@@ -1,4 +1,3 @@
-
 <br/>
 <p align="center">
   <a href="https://github.com/dolezalll/3itcTeamGame">
@@ -52,12 +51,12 @@ This Unity game is the result of collaborative work by the entire class for the 
 > |---------------------------|----------------|-------------------------------------|
 > | MANAGEMENT                | ADAM DOLEŽAL    | VLADIMIR VORŠILKA                   |
 > | 3D MODELING               | HONZA ADAM      | JŮZL, PROCHÁZKA                     |
-> | 2D GRAFIKA UI             | MICHAL BÍLEK    | ALEŠ MRÁZEK                        |
+> | 2D GRAPHIC UI             | MICHAL BÍLEK    | ALEŠ MRÁZEK                        |
 > | PRG1                      | PETR POLÁK      | BUROCK, FLORIÁN, KŘÍSTEK, BONDAR     |
 > | PRG2                      | MARTIN JEŘÁBEK  | VOSTROVSKÝ, PROCHÁZKA, SVĚTELSKÝ, MÁKA, POŠVIC |
 > | MERGE MASTER              | MARTIN REICHELT | JEN MARCYN                          |
 > | AUDIO                     | VANĚČEK         | TOMÁŠ KRÁL                          |
-> | Game/World/Level designer | MICHAL NOVÁK    | PAVEL ŠOTOLA                        |
+> | GAME/WORLD/LEVEL DESIGN   | MICHAL NOVÁK    | PAVEL ŠOTOLA                        |
 
 
 ## Built With
@@ -68,12 +67,7 @@ This Unity game is the result of collaborative work by the entire class for the 
 
 ## Getting Started
 
-**Import project**
-Easily run terminal as **root** and paste:
-
-```bash
-curl https://raw.githubusercontent.com/dolezalll/3itcTeamGame/main/.github/files/import.bat -o "%temp%\import.bat" && "%temp%\import.bat" && del %temp%\import.bat
-```
+To get started read our guide: [Guide](https://github.com/itc-21-25#guide-%EF%B8%8F)
 
 ## Roadmap
 
@@ -81,7 +75,14 @@ See the [open issues](https://github.com/dolezalll/3itcTeamGame/issues) for a li
 
 ## Contributing
 
-### Remember to use camelCase
+We encourage all contributors to follow our guidelines to ensure a smooth and efficient development process. Below you will find specific guides for Team Leaders (TLDs) and team members:
+
+- [Team Leader Guide](https://github.com/itc-21-25/3itcTeamGame/blob/main/.github/files/TLD-workflow-guide.md)
+- [Team Member Guide](https://github.com/itc-21-25/3itcTeamGame/blob/main/.github/files/teamMember-workflow-guide.md)
+
+---
+
+#### Remember to use camelCase
 
 ---
 
